@@ -1,0 +1,10 @@
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\bin\Debug\FranceTV.exe.config
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\bin\Debug\FranceTV.exe
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\bin\Debug\FranceTV.pdb
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.csproj.AssemblyReference.cache
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.Form1.resources
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.Properties.Resources.resources
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.csproj.GenerateResource.cache
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.csproj.CoreCompileInputs.cache
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.exe
+C:\Users\julien.perez\source\repos\FranceTV\FranceTV\obj\Debug\FranceTV.pdb
